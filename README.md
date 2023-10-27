@@ -1,14 +1,14 @@
-Google Images Scraper
+# Google Images Scraper
 Scrape Google Images effortlessly with this Python-based tool, using Selenium and the Chrome WebDriver.
 
-Table of Contents
-Installation
-Usage
-Features
-Contributing
-License
-Installation
-Prerequisites:
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 Python (3.x recommended)
 Chrome Web Browser (for the Chrome WebDriver)
@@ -42,7 +42,9 @@ Customizability: Decide the number of images and the starting index.
 Contributing
 We welcome contributions! Please create an issue or submit a pull request if you'd like to contribute to this project.
 
-License
-MIT License (Include a LICENSE file in your repo with the MIT License or whichever license you choose.)
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 # google-image-scraper
